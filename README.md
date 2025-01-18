@@ -1,6 +1,6 @@
 # Credit-Risk-Modelling-Loan-Classification
 
-This repository contains a machine learning model that predicts if an individual will repay the loan or not based on various input features. The model was built using **RandomForest Classifier** and trained on a dataset of loan_detectin data. It has achieved **99% accuracy** on the training set and **96% accuracy** on the test set.
+This repository contains a machine learning model that predicts if an individual will repay the loan or not based on various input features. The model was built using **RandomForest Classifier** and trained on a dataset of loan_detection data. It has achieved **99% accuracy** on the training set and **96% accuracy** on the test set.
 
 ## Project Overview
 
