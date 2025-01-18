@@ -6,6 +6,7 @@ numpy==1.24.0
 
 # For machine learning algorithms
 scikit-learn==1.2.2
+imbalanced-learn==0.13.0
 
 # For data visualization
 matplotlib==3.7.1
