@@ -7,7 +7,7 @@ This repository contains a machine learning model that predicts if an individual
 The goal of this project is to develop a model that can predict if an individual will repay the loan or not based on input features and relevant attributes. The dataset used for training and testing the model was carefully preprocessed to ensure the highest possible accuracy.
 
 ### Key Features:
-- **RandomForest Classifier**: The model uses RandomForest Classifier.
+- **RandomForest Classifier**: The model uses RandomForest Classification.
 - **Accuracy**: Achieved **99% accuracy** on the training data and **96% accuracy** on the test data.
 
 > Note: Ensure that the data is clean and free from any missing values before running the model.
